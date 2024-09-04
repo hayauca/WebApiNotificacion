@@ -1,30 +1,35 @@
 [
   {
-    "ContainingType": "WebApiNotificacion.Controllers.CustomerController",
-    "Method": "CreateCustomer",
-    "RelativePath": "api/customer/CreateCustomer",
+    "ContainingType": "WebApiNotificacion.Controllers.NotificacionController",
+    "Method": "AceptarTerminos",
+    "RelativePath": "api/notificacion/aceptar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "customerDto",
-        "Type": "Application.DTOs.CustomerDto",
-        "IsRequired": true
+        "Name": "cedula",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "WebApiNotificacion.Controllers.CustomerController",
-    "Method": "GetCustomer",
-    "RelativePath": "api/customer/getcustomer",
-    "HttpMethod": "GET",
+    "ContainingType": "WebApiNotificacion.Controllers.NotificacionController",
+    "Method": "EnviarCorreo",
+    "RelativePath": "api/notificacion/enviar",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "identificacion",
+        "Name": "cliente",
+        "Type": "Core.Entities.NotificacionesClienteConfig",
+        "IsRequired": true
+      },
+      {
+        "Name": "link",
         "Type": "System.String",
         "IsRequired": false
       }

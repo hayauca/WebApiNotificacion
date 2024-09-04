@@ -14,7 +14,9 @@ namespace Application.Mappings
     {
         public MappingProfile()
         {
-            CreateMap<Customer, CustomerDto>().ReverseMap();
+           
+            CreateMap<NotificacionesCliente, NotificacionesClienteDto>().ReverseMap();
+            CreateMap<NotificacionesClienteConfig, NotificacionesClienteConfigDto>().ReverseMap();
         }
 
     }

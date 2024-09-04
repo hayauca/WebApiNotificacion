@@ -14,8 +14,12 @@ var builder = WebApplication.CreateBuilder(args);
 string oracleConnectionString = builder.Configuration.GetConnectionString("OracleDb"); //hac
 
 // Add services to the container.
-builder.Services.AddScoped<ICustomerRepository>(provider => new CustomerRepository(oracleConnectionString)); //hac
-builder.Services.AddScoped<CustomerService>(); //hac
+//builder.Services.AddScoped<ICustomerRepository>(provider => new CustomerRepository(oracleConnectionString)); //hac
+//builder.Services.AddScoped<CustomerService>(); //hac
+
+
+builder.Services.AddScoped<INotificacionRepository>(provider => new NotificacionRepository(oracleConnectionString)); //hac
+builder.Services.AddScoped<NotificacionService>(); //hac
 
 
 // Agregar AutoMapper al contenedor de servicios
