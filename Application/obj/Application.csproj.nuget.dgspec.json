@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Application\\Application.csproj": {}
+    "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Application\\Application.csproj": {
+    "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\unicomer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Application\\obj\\",
+        "outputPath": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\Core.csproj"
+              "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\Core.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\Core.csproj": {
+    "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\unicomer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\obj\\",
+        "outputPath": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

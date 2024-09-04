@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BIdPMv9O2tA=",
+  "dgSpecHash": "T54qkKx17/0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unicomer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\unicomer\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

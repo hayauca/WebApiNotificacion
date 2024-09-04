@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "WebApiNotificacion.Controllers.CustomerController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/customer/CreateCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerDto",
+        "Type": "Application.DTOs.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiNotificacion.Controllers.CustomerController",
+    "Method": "GetCustomer",
+    "RelativePath": "api/customer/getcustomer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "identificacion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

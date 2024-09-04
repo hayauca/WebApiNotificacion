@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\unicomer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unicomer\\Documents\\MisProyectos\\WebApiCleanArchitectureNet8\\Core\\obj\\",
+      "outputPath": "C:\\Users\\unicomer\\Documents\\MisProyectos2\\WebApiNotificacion\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

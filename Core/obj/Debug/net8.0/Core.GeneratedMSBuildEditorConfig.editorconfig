@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Core
-build_property.ProjectDir = C:\Users\unicomer\Documents\MisProyectos\WebApiCleanArchitectureNet8\Core\
+build_property.ProjectDir = C:\Users\unicomer\Documents\MisProyectos2\WebApiNotificacion\Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
